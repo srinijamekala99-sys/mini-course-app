@@ -1,0 +1,39 @@
+# Mini Course App
+
+**Author:** Srinija Mekala  
+
+A web application for online courses where users can sign up, log in, view courses, see course details, and manage their enrolled courses.
+
+---
+
+## Live Links
+
+- **Frontend (Live):** [Mini Course App](https://musical-sfogliatella-af26b8.netlify.app)  
+- **Backend (Live):** [Backend API](https://mini-course-app-7dsw.onrender.com)  
+
+---
+
+## Features
+
+- User signup and login  
+- View all available courses  
+- View detailed course information  
+- Enroll and view "My Courses"  
+
+---
+
+## Tech Stack
+
+- **Frontend:** React  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Hosting:** Frontend on Netlify, Backend on Render  
+
+---
+
+## Setup Instructions (Local Development)
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/srinijamekala99-sys/mini-course-app.git
+   cd mini-course-app
