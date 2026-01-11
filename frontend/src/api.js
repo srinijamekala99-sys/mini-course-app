@@ -10,7 +10,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://mini-course-app-7dsw.onrender.com",
 });
 
 // 🔑 ADD TOKEN TO EVERY REQUEST
